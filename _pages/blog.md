@@ -1,9 +1,9 @@
 ---
-title: "Blog"
+title: "博客"
 layout: posts
 excerpt: "My personal blog. We talk about Android, Community, Public Speaking and Travels"
 sitemap: true
-permalink: /blog
+permalink: /博客
 author_profile: true
 header:
     overlay_filter: "0.6"
