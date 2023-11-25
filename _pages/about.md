@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: single
-excerpt: "Hi there! My name is Nicola."
+excerpt: "嗨，大家好，我是刘金广"
 sitemap: true
 permalink: /about
 author_profile: true
@@ -11,21 +11,21 @@ header:
     show_overlay_excerpt: false
 ---
 
-# Hi there 👋  I'm Nicola
+# 嗨，大家好，我是刘金广
 
-I'm an **Android Engineer** an **OpenSource Lover** and a **Runner**.
+主业：健康管理师，副业资源：互联网金融，高端就业(香港+大陆)
 
-## Android
+## 健康管理
 
-I'm working in the [<i class="fab fa-react"></i> React Native core team](https://reactnative.dev/) as an Android Engineer, building one of the most popular cross-platform mobile framework, used by billions of users worldwide. My main focus it to provide top-notch developer tools & libraries to support the React Native ecosystem. I'm fully committed to deliver the best quality software and to foster a healthy community around React Native.
+我在 [<i class="fab fa-react"></i> 深圳龙华](https://reactnative.dev/) 作为一名专业的健康管理是，全力还原纯野生中草药膏，主要调理颈椎炎、肩周炎、肾结石、跌打药酒、骨质增生，坐骨神经痛、心脑血管（头晕、头痛、肢体麻木、静脉曲张），男女私密炎症.
 
-Previously, I spent some time building Android Infrastructure at [<i class="fab fa-spotify"></i> Spotify](https://spotify.com/) in Stockholm, Sweden 🇸🇪 and at [<i class="fab fa-yelp"></i> Yelp](https://yelp.com/) in Hamburg, Germany 🇩🇪.
+以前我一直从事传统文化教育行业 [<i class="fab fa-spotify"></i> Spotify](https://spotify.com/) 口罩期以后 [<i class="fab fa-yelp"></i> Yelp](https://yelp.com/) 更喜欢把健康传递给每一个需要帮助的伙伴.
 
-## Community, OSS & Public Speaking
+## 以下案例展示
 
-I love to **build meaningful communities** around me, either online or in real life.
+我喜欢 **从事健康管理行业** 无论是在网上还是现实生活中.
 
-Since 2020, I'm a member of the [GDE (Google Developer Expert) program](https://developers.google.com/community/experts/directory/profile/profile-nicola-corti) in the Kotlin category. I enjoy connecting developers around me and I had the opportunity to build and support the following communities:
+自2013年 [GDE (Google Developer Expert) program](https://developers.google.com/community/experts/directory/profile/profile-nicola-corti) 以来. 待完善
 
 * [The GDG (Google Developer Group) chapter in Pisa](https://gdgpisa.it/)
 * [The Kotlin User Group in Hamburg](https://www.meetup.com/Kotlin-User-Group-Hamburg/)
