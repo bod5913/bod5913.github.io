@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Blog"
-    url: /blog
-  - title: "Talks"
-    url: /talks
-  - title: "Projects"
-    url: /projects
-  - title: "About"
-    url: /about
-  - title: Podcast
+  - title: "博客"
+    url: /博客
+  - title: "会谈"
+    url: /会谈
+  - title: "项目"
+    url: /项目
+  - title: "个人资料"
+    url: /个人资料
+  - title: 博客
     url: https://thebakery.dev
